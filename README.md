@@ -10,7 +10,7 @@ The following 10 classes mentioned above will be classified using Convolutional 
 ## Benchmark model
 We will be using Inception-v3 model as our benchmark model. We will apply transfer learning and remove the fully connected layer from its architecture then add some layers according to CIFAR-10 dataset. Here is the link for weights (https://github.com/fchollet/deep-learning-models/releases/download/v0.2/inception_v3_weights_th_dim_ordering_th_kernels.h5).  
 
-## I worked on python 3.6 (ipython notebook) used the following libraries for the project:
+## I worked on python 3.6 (ipython notebook) and used the following libraries for the project:
 - Keras (2.)
 - matplotlib
 - time
